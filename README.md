@@ -1,4 +1,4 @@
-# 🇬🇷 Site sobre a Grécia
+# Site sobre a Grécia
 
 Este projeto é um site desenvolvido como atividade acadêmica, com o objetivo de apresentar informações sobre a Grécia de forma organizada, visual e responsiva utilizando Bootstrap.
 
