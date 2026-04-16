@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Turismo - Grécia</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+
+  <style>
+    .carousel-img {
+      height: 400px;
+      object-fit: cover;
+    }
+  </style>
+</head>
+
+<body class="d-flex flex-column min-vh-100">
+
+  <!-- HEADER -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">Grécia</a>
+
+      <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#menu">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="menu">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="info.html">Informações</a></li>
+          <li class="nav-item"><a class="nav-link" href="cultura.html">Cultura</a></li>
+          <li class="nav-item"><a class="nav-link" href="comida.html">Comida</a></li>
+          <li class="nav-item"><a class="nav-link active" href="turismo.html">Turismo</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- CONTEÚDO -->
+  <main class="flex-grow-1">
+    <div class="container mt-4">
+
+      <h1>Pontos Turísticos da Grécia</h1>
+
+      <!-- CAROUSEL -->
+      <div id="carousel" class="carousel slide mb-4" data-bs-ride="carousel">
+        <div class="carousel-inner">
+
+          <div class="carousel-item active">
+            <img src="imagens/acropole-de-atenas.webp" class="d-block w-100 carousel-img">
+            <div class="carousel-caption bg-dark bg-opacity-50 rounded">
+              <h5>Acrópole de Atenas</h5>
+              <p>Um dos monumentos mais famosos da Grécia Antiga</p>
+            </div>
+          </div>
+
+          <div class="carousel-item">
+            <img src="imagens/santorini.webp" class="d-block w-100 carousel-img">
+            <div class="carousel-caption bg-dark bg-opacity-50 rounded">
+              <h5>Santorini</h5>
+              <p>Ilha conhecida por suas casas brancas e vista incrível</p>
+            </div>
+          </div>
+
+          <div class="carousel-item">
+            <img src="imagens/mykonos.jpg" class="d-block w-100 carousel-img">
+            <div class="carousel-caption bg-dark bg-opacity-50 rounded">
+              <h5>Mykonos</h5>
+              <p>Destino famoso por praias e vida noturna</p>
+            </div>
+          </div>
+
+        </div>
+
+        <button class="carousel-control-prev" data-bs-target="#carousel" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon bg-dark rounded"></span>
+        </button>
+
+        <button class="carousel-control-next" data-bs-target="#carousel" data-bs-slide="next">
+          <span class="carousel-control-next-icon bg-dark rounded"></span>
+        </button>
+      </div>
+
+      <!-- CONTEÚDO -->
+      <h3>Lugares famosos</h3>
+
+      <ul>
+        <li><strong>Acrópole de Atenas:</strong> conjunto histórico com templos antigos</li>
+        <li><strong>Santorini:</strong> ilha com paisagens únicas e arquitetura branca</li>
+        <li><strong>Mykonos:</strong> famosa pelas praias e festas</li>
+      </ul>
+
+      <p>
+        A Grécia é um dos destinos turísticos mais visitados do mundo, oferecendo uma combinação única
+        de história antiga, belas ilhas e cultura rica. Seus pontos turísticos atraem milhões de visitantes todos os anos.
+      </p>
+
+    </div>
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="bg-dark text-white text-center py-3">
+    <p>© 2026 - Site sobre a Grécia</p>
+    <p>Desenvolvido por Leonardo Viela</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>
