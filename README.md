@@ -29,7 +29,7 @@ O projeto possui 5 páginas principais:
 
 ---
 
-## 🎨 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * HTML5
 * CSS3
