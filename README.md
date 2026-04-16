@@ -29,9 +29,9 @@ O projeto possui 5 páginas principais:
 
 ## Tecnologias utilizadas
 
-* HTML5
-* CSS3
-* Bootstrap 5
+* HTML
+* CSS
+* Bootstrap
 
 ---
 
