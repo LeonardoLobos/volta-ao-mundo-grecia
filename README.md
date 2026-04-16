@@ -82,6 +82,6 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 
 ## Autor
 
-Desenvolvido por **Leonardo Viela** para fins acadêmicos como atividade prática.
+Desenvolvido por **Leonardo Vilela** para fins acadêmicos como atividade prática.
 
 ---
