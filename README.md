@@ -57,7 +57,7 @@ O site foi desenvolvido utilizando Bootstrap, garantindo adaptação para:
 ## Estrutura de pastas
 
 ```
-/projeto-grecia
+/volta-ao-mundo-grecia
  ├── index.html
  ├── info.html
  ├── cultura.html
