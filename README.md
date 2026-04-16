@@ -6,14 +6,12 @@ Este projeto é um site desenvolvido como atividade acadêmica, com o objetivo d
 
 ## Sobre o projeto
 
-O site apresenta conteúdos sobre a Grécia, incluindo:
+O site apresenta conteúdos sobre a Grécia:
 
 * Informações gerais do país
 * Cultura
 * Comidas típicas
 * Pontos turísticos
-
-Tudo estruturado em múltiplas páginas interligadas.
 
 ---
 
@@ -79,17 +77,6 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 ```
 
 2. Abra o arquivo `index.html` no navegador.
-
----
-
-## Publicação
-
-O projeto pode ser publicado usando o GitHub Pages:
-
-1. Acesse **Settings**
-2. Vá até **Pages**
-3. Selecione a branch `main`
-4. Salve
 
 ---
 
